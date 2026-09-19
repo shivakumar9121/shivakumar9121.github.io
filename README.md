@@ -1,6 +1,6 @@
 # Pathlavath Shiva Kumar — Portfolio
 
-[Visit the portfolio](https://shivakumar9121.github.io/shiva_portfolio/) · [Download résumé](https://shivakumar9121.github.io/resume.pdf)
+[Visit the portfolio](https://shivakumar9121.github.io/shiva_portfolio/) · [View résumé](https://shivakumar9121.github.io/resume.pdf)
 
 AI/ML, data analysis and full-stack projects, completed internships, education and NVIDIA Fundamentals of Deep Learning certification.
 
@@ -12,8 +12,9 @@ AI/ML, data analysis and full-stack projects, completed internships, education a
 
 ## Structure
 
-Static HTML, CSS and JavaScript. The home page links to four technical case studies. Project images use WebP. The downloadable résumé is a one-page PDF. GitHub Pages serves the main branch from the repository root.
+Static HTML, CSS and JavaScript. The home page links to four technical case studies. Project images use WebP. The résumé is a one-page PDF based on the portfolio and opens for viewing in a new tab. GitHub Pages serves the main branch from the repository root.
 
 ## Local preview
 
 Run `python -m http.server 8766` in this directory, then open `http://localhost:8766`.
+
