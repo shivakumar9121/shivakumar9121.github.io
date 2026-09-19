@@ -12,7 +12,7 @@ AI/ML, data analysis and full-stack projects, completed internships, education a
 
 ## Structure
 
-Static HTML, CSS and JavaScript. The home page links to three technical case studies. Project images use WebP. The downloadable résumé is a one-page PDF. GitHub Pages serves the main branch from the repository root.
+Static HTML, CSS and JavaScript. The home page links to four technical case studies. Project images use WebP. The downloadable résumé is a one-page PDF. GitHub Pages serves the main branch from the repository root.
 
 ## Local preview
 
