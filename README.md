@@ -1,6 +1,6 @@
 # Pathlavath Shiva Kumar — Portfolio
 
-[Visit the portfolio](https://shivakumar9121.github.io) · [Download résumé](https://shivakumar9121.github.io/resume.pdf)
+[Visit the portfolio](https://shivakumar9121.github.io/shiva_portfolio/) · [Download résumé](https://shivakumar9121.github.io/resume.pdf)
 
 AI/ML, data analysis and full-stack projects, completed internships, education and NVIDIA Fundamentals of Deep Learning certification.
 
